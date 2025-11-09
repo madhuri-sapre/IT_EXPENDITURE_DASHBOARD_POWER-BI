@@ -3,7 +3,6 @@ IT_EXPENDITURE_DASHBOARD_POWER-BI
 
 
 # Description
-IT Expenditure Dashboard
 This project presents an interactive IT Expenditure Dashboard built using Power BI. The dashboard delivers a comprehensive view of an organisation’s IT budget, actuals, forecast, and plan — making it easier for finance and IT leadership to monitor cost drivers, variances and trends.
 
 
