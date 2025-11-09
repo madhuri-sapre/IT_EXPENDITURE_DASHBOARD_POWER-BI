@@ -7,5 +7,6 @@ This project presents a comprehensive analysis of Vrinda Store’s e-commerce sa
 
 
 # Output Screenshot
-<img width="1049" height="384" alt="Screenshot 2025-11-09 123239" src="https://github.com/user-attachments/assets/20bb5872-5c80-4ac7-a92d-aac8a7abc7e3" />
+<img width="1164" height="651" alt="Snapshot-dashboard" src="https://github.com/user-attachments/assets/4a707522-eea1-417d-a975-acfd08bf248e" />
+
 
