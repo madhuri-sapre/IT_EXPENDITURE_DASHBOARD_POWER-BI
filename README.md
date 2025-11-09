@@ -1,17 +1,11 @@
-# IT_EXPENDITURE_DASHBOARD_POWER-BI
+# Project Title:
+IT_EXPENDITURE_DASHBOARD_POWER-BI
 
-Description:
-Developed an interactive Power BI dashboard to analyze and visualize IT expenditure across multiple business areas and cost elements. The dashboard provides a comprehensive view of total actuals, forecasts, and variance metrics, enabling better financial control and performance tracking across global regions and departments.
 
-Key Features:
-Visualized key financial KPI.s such as Total Actual, Total Forecast, Plan vs Actual Variance, and Plan vs Forecast Variance.
-Designed interactive filters by business area, IT area, and month for dynamic analysis.
-Used bar charts, donut charts, and KPI cards to represent expenditure distribution and performance trends.
-Incorporated variance analysis by cost element and country to identify over- and under-spending areas.
-Ensured a professional and consistent dashboard layout with clear labeling and corporate-style color themes.
+# Description
+This project presents a comprehensive analysis of Vrinda Store’s e-commerce sales performance for the year 2022. The insights are visualized through interactive dashboards built in Microsoft Excel, showcasing trends, customer demographics, and order patterns that help drive data-driven decisions.
 
-Tools & Skills Used:
-Power BI, DAX, Data Modeling, Data Transformation, Power Query, KPI Design, Business Intelligence, Financial Analysis.
 
-Outcome:
-Delivered a data-driven, insightful dashboard that supports management in monitoring IT budget utilization, identifying cost-saving opportunities, and improving strategic decision-making.
+# Output Screenshot
+<img width="1049" height="384" alt="Screenshot 2025-11-09 123239" src="https://github.com/user-attachments/assets/20bb5872-5c80-4ac7-a92d-aac8a7abc7e3" />
+
